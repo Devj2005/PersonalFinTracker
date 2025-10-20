@@ -11,7 +11,7 @@ It allows users to:
 - Set and monitor monthly budgets
 - Define and progress towards savings goals
 
-This project is developed as part of a university course project by **Group 4**, using **React (with Electron)** for the frontend, **Node.js** for the backend, and **MySQL** as the database.
+This project is developed as part of a university course project by **Group 4**, using **React** for the frontend, **Node.js** for the backend, and **MySQL** as the database.
 
 
 
